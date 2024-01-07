@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student at Erciyes University Computer Science and a 4th year. <br>Looking for help for web development, UI design and backend.<br>Currently learning React and NodeJs
+I'm currently a student at Erciyes University Computer Science student. <br>Looking for help for web development, UI design and backend.<br>Currently learning React and NodeJs
 
 
 ## 🌐 Socials:
