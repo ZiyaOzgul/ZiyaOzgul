@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently a student at Erciyes University Computer Science student. <br>Looking for help for web development, UI design and backend.<br>Currently learning React and NodeJs
-
+Mobile Application Developer with 3+ years of experience in frontend and cross-platform
+development. Specialized in React Native and modern mobile architecture, with production-level
+experience in authentication systems, state management, and scalable UI design. Strong
+foundation in React and Next.js, transitioning from web to high-performance mobile applications.
+Focused on clean architecture, performance optimization, and user-centered design.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziya-özgül-93816a260) 
