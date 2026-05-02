@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ziya%20Özgül&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20Application%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ziya%20Özgül&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20%7C%20Web%20%7C%20Desktop%20%7C%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=500&lines=Mobile+Application+Developer+%F0%9F%93%B1;React+Native+Expert+%E2%9A%A1;TypeScript+Enthusiast+%F0%9F%92%99;3%2B+Years+of+Production+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&lines=Mobile+%7C+Web+%7C+Desktop+Developer+%F0%9F%9A%80;React+Native+%26+Flutter+Expert+%F0%9F%93%B1;AI-Powered+App+Builder+%F0%9F%A4%96;Electron+%7C+Next.js+%7C+TypeScript+%E2%9A%A1;3%2B+Years+of+Production+Experience)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziya-özgül-93816a260)
 [![Profile Views](https://komarev.com/ghpvc/?username=ZiyaOzgul&style=for-the-badge&color=blueviolet)](https://github.com/ZiyaOzgul)
@@ -17,11 +17,11 @@
 <tr>
 <td valign="top" width="60%">
 
-- 📱 **Mobile-first developer** specializing in **React Native** & cross-platform apps
-- ⚡ 3+ years building production apps with auth systems, state management & scalable UI
-- 🌐 Strong foundation in **React**, **Next.js**, and modern web architecture
-- 🎯 Focused on clean architecture, performance optimization & user-centered design
-- 🔭 Currently deep-diving into **advanced animations** and **offline-first** mobile patterns
+- 📱 **Cross-platform developer** building apps for **Mobile, Web & Windows Desktop** with React Native, Flutter & Electron
+- 🤖 Integrating **AI features** into production apps — from LLM-powered interfaces to intelligent automation
+- ⚡ 3+ years shipping real-world apps with auth (**Clerk**), real-time backends (**Convex**, **Firebase**) & scalable UI
+- 🌐 Full-stack capable — **Next.js**, **Node.js**, **React** on the web; native performance on mobile & desktop
+- 🎯 Focused on clean architecture, performance optimization & user-centered design across every platform
 
 </td>
 <td valign="top" width="40%" align="center">
@@ -33,8 +33,6 @@
 </table>
 
 ---
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -48,27 +46,34 @@
 
 <div align="center">
 
-**📱 Mobile**
+**📱 Mobile & Desktop**
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,electron,dart&theme=dark)](https://skillicons.dev)
 
 **🌐 Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
 **⚙️ Backend & Database**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
-**🔧 Tools**
+**🔐 Auth & Realtime**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev) &nbsp;
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+
+**🤖 AI & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev) &nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -89,8 +94,6 @@
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
 
 [![Ziya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZiyaOzgul&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -99,8 +102,6 @@
 
 ---
 
-## 📅 Isometric Contribution Calendar
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ZiyaOzgul/ZiyaOzgul/main/github-isocalendar.svg" alt="Isometric Contribution Calendar"/>
@@ -108,8 +109,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
