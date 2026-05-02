@@ -78,15 +78,15 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ZiyaOzgul&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZiyaOzgul&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyaOzgul&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ZiyaOzgul&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaOzgul&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaOzgul&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
