@@ -13,24 +13,22 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<div align="center">
 
-- 📱 **Cross-platform developer** building apps for **Mobile, Web & Windows Desktop** with React Native, Flutter & Electron
-- 🤖 Integrating **AI features** into production apps — from LLM-powered interfaces to intelligent automation
-- ⚡ 3+ years shipping real-world apps with auth (**Clerk**), real-time backends (**Convex**, **Firebase**) & scalable UI
-- 🌐 Full-stack capable — **Next.js**, **Node.js**, **React** on the web; native performance on mobile & desktop
-- 🎯 Focused on clean architecture, performance optimization & user-centered design across every platform
+### 📱 Cross-platform developer building for Mobile, Web & Windows Desktop
+### with React Native · Flutter · Electron
 
-</td>
-<td valign="top" width="40%" align="center">
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
+<br/>
 
-</td>
-</tr>
-</table>
+> 🤖 &nbsp; I build **AI-powered apps** — from LLM-driven interfaces to intelligent automation baked into production products.
+
+> ⚡ &nbsp; **3+ years** shipping real-world apps with modern auth (**Clerk**), real-time backends (**Convex**, **Firebase**) & scalable UI systems.
+
+> 🌐 &nbsp; **Full-stack capable** — **Next.js**, **Node.js**, **React** on the web; native performance on mobile & desktop.
+
+> 🎯 &nbsp; Obsessed with **clean architecture**, performance optimization & user-centered design across every platform.
 
 ---
 
