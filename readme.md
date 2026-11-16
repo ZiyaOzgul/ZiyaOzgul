@@ -1,127 +1,74 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ziya%20Özgül&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20%7C%20Web%20%7C%20Desktop%20%7C%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
+```console
+$ whoami
+ziya özgül · ankara, tr
+i build mobile, web and desktop apps on my own, from the first screen to the store release.
+lately, most of them have a language model somewhere inside.
+```
 
-<div align="center">
+```console
+$ git log --reverse --date=format:%Y --format="%ad  %s" -- career/
+2021  learn react, start freelancing: 10+ client sites on fiverr & upwork
+2022  embedded c internship @ takosan: automotive displays over uart/spi/i2c
+2023  switch to react native + expo
+2024  mobile internship @ bites: replace a 3rd-party video player, bundle -10–15%
+2024  build nixara: astrology app, 5 ai features, live on app store + google play
+2025  build shapely: ai writing app in 5 languages, gpt-4o/gemini routed by plan
+2025  start a legal ai assistant for turkish law
+2026  build a restaurant pos for friends: electron + next.js + react native, one backend
+2026  start anatomicana: human anatomy in 3d, modelled bone by bone
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&lines=Mobile+%7C+Web+%7C+Desktop+Developer+%F0%9F%9A%80;React+Native+%26+Flutter+Expert+%F0%9F%93%B1;AI-Powered+App+Builder+%F0%9F%A4%96;Electron+%7C+Next.js+%7C+TypeScript+%E2%9A%A1;3%2B+Years+of+Production+Experience)](https://git.io/typing-svg)
+### currently open in my editor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziya-özgül-93816a260)
-[![Profile Views](https://komarev.com/ghpvc/?username=ZiyaOzgul&style=for-the-badge&color=blueviolet)](https://github.com/ZiyaOzgul)
+**legal ai assistant**: an agent that reads a case file, pulls related court decisions and constitutional articles, and helps a lawyer decide what to do next.
 
-</div>
+```text
+ case.pdf ──▶ split (turkish-aware) ──▶ embed ──▶ pgvector
+                                                    │
+                                                    ▼
+ calendar ◀── petition draft ◀── agents ◀── precedents + articles
+                                 gpt · claude · gemini
+```
 
----
+I tested it with a lawyer on their real case files. Most of what broke wasn't the prompts. It was how Turkish words were being split before retrieval.
 
-## 🚀 About Me
+**anatomicana**: an anatomy learning app. I'm building the 3d models myself, along with a muscle and bone reference library. Right now I'm working on dissection-level detail while keeping it smooth on a phone.
 
-<div align="center">
+### things i made because i needed them
 
-### 📱 Cross-platform developer building for Mobile, Web & Windows Desktop
-### with React Native · Flutter · Electron
+- a gym tracker, because i didn't want to pay for one
+- an app that tracks my cat's food, water, vet visits and vaccines
 
-</div>
+### a rule i keep
+
+> AI writes a lot of my first drafts. Nothing ships until I've read it, tested it and watched it run against real use.
+> (claude code and cursor daily; jest, vitest, pytest, maestro, appium for the checking part.)
+
+```jsonc
+// ~/package.json
+{
+  "name": "ziya",
+  "dependencies": {
+    "react": "since 2021",
+    "react-native": "since 2023",          // + expo, eas
+    "typescript": "everywhere",
+    "next": "*", "node": "*", "electron": "*", "flutter": "*",
+    "postgres": "*", "supabase": "*", "firebase": "*", "convex": "*", "mongodb": "*",
+    "openai": "*", "anthropic": "*", "gemini": "*", "pgvector": "*",
+    "docker": "*", "kubernetes": "*", "n8n": "*"
+  },
+  "repository": "you're looking at it"
+}
+```
+
+[ziya-özgül.com](https://ziya-özgül.com) · [linkedin](https://linkedin.com/in/ziyaozguldeveloper)
 
 <br/>
 
-> 🤖 &nbsp; I build **AI-powered apps** — from LLM-driven interfaces to intelligent automation baked into production products.
-
-> ⚡ &nbsp; **3+ years** shipping real-world apps with modern auth (**Clerk**), real-time backends (**Convex**, **Firebase**) & scalable UI systems.
-
-> 🌐 &nbsp; **Full-stack capable** — **Next.js**, **Node.js**, **React** on the web; native performance on mobile & desktop.
-
-> 🎯 &nbsp; Obsessed with **clean architecture**, performance optimization & user-centered design across every platform.
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZiyaOzgul&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**📱 Mobile & Desktop**
-
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,electron,dart&theme=dark)](https://skillicons.dev)
-
-**🌐 Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css&theme=dark)](https://skillicons.dev)
-
-**⚙️ Backend & Database**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql&theme=dark)](https://skillicons.dev)
-
-**🔐 Auth & Realtime**
-
-[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev) &nbsp;
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
-
-**🤖 AI & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark)](https://skillicons.dev) &nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=ZiyaOzgul&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://streak-stats.demolab.com/?user=ZiyaOzgul&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaOzgul&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![Ziya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZiyaOzgul&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ZiyaOzgul/ZiyaOzgul/main/github-isocalendar.svg" alt="Isometric Contribution Calendar"/>
-
-</div>
-
----
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/ZiyaOzgul/ZiyaOzgul/main/github-isocalendar.svg" alt="contribution calendar"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiyaOzgul/ZiyaOzgul/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiyaOzgul/ZiyaOzgul/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZiyaOzgul/ZiyaOzgul/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ZiyaOzgul/ZiyaOzgul/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
