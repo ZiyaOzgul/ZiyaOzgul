@@ -1,21 +1,22 @@
 ```console
 $ whoami
 ziya özgül · ankara, tr
-i build mobile, web and desktop apps on my own, from the first screen to the store release.
+i build mobile, web and desktop apps on my own,
+from the first screen to the store release.
 lately, most of them have a language model somewhere inside.
 ```
 
 ```console
-$ git log --reverse --date=format:%Y --format="%ad  %s" -- career/
-2021  learn react, start freelancing: 10+ client sites on fiverr & upwork
-2022  embedded c internship @ takosan: automotive displays over uart/spi/i2c
+$ git log --reverse --format="%ad  %s" career/
+2021  learn react, freelance for 10+ clients on fiverr & upwork
+2022  embedded c intern @ takosan: car displays, uart/spi/i2c
 2023  switch to react native + expo
-2024  mobile internship @ bites: replace a 3rd-party video player, bundle -10–15%
-2024  build nixara: astrology app, 5 ai features, live on app store + google play
-2025  build shapely: ai writing app in 5 languages, gpt-4o/gemini routed by plan
+2024  mobile intern @ bites: custom rn video module, bundle -10–15%
+2024  ship nixara: 5 ai features, app store + google play
+2025  build shapely: ai writing app, gpt-4o/gemini by plan
 2025  start a legal ai assistant for turkish law
-2026  build a restaurant pos for friends: electron + next.js + react native, one backend
-2026  start anatomicana: human anatomy in 3d, modelled bone by bone
+2026  restaurant pos for friends: electron + next + rn, one db
+2026  start anatomicana: human anatomy in 3d, bone by bone
 ```
 
 ### currently open in my editor
@@ -53,7 +54,8 @@ I tested it with a lawyer on their real case files. Most of what broke wasn't th
     "react-native": "since 2023",          // + expo, eas
     "typescript": "everywhere",
     "next": "*", "node": "*", "electron": "*", "flutter": "*",
-    "postgres": "*", "supabase": "*", "firebase": "*", "convex": "*", "mongodb": "*",
+    "postgres": "*", "supabase": "*", "firebase": "*",
+    "convex": "*", "mongodb": "*",
     "openai": "*", "anthropic": "*", "gemini": "*", "pgvector": "*",
     "docker": "*", "kubernetes": "*", "n8n": "*"
   },
